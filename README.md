@@ -7,7 +7,7 @@ Ivy is a personal discord bot created using Discord.NET library. This bot is mad
 ```
 {
 "AppSettings": {
-  "YourBotToken": "super-secret-token-that-you-get-on-discord-developer-page"
+  "IvyToken": "super-secret-token-that-you-get-on-discord-developer-page"
 	}
 }
 ```
